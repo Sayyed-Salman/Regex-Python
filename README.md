@@ -54,7 +54,7 @@ test_data.txt
 
 - To get proper output with 100% accuracy either the name of the student or the attendance message they send should be in proper format as follows
 - SYCS-99-Your Name
-- If the names of the students is not in correct format, their attendance would not be recorder by this script.
+- If the names of the students is not in correct format, their attendance would not be recorded by this script.
 
 <img src="./Screenshots/Animation.gif">
 
