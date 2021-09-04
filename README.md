@@ -25,7 +25,7 @@ or go to https://www.python.org and download suitable version of python
 - clone this repository into your pc
 
 ```bash
-git clone
+git clone https://github.com/Sayyed-Salman/Zoom-Attendance-Automator.git
 ```
 
 - run attendance_automator.py from cmd
