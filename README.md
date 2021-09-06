@@ -1,6 +1,5 @@
-![GitHub top language](https://img.shields.io/github/languages/top/Sayyed-Salman/Zoom-Attendance-Automator?style=plastic)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Sayyed-Salman/Zoom-Attendance-Automator)
+![GitHub top language](https://img.shields.io/github/languages/top/Sayyed-Salman/Zoom-Attendance-Automator?style=plastic) 
+![GitHub repo size](https://img.shields.io/github/repo-size/Sayyed-Salman/Zoom-Attendance-Automator?style=plastic)
 
 # Zoom Attendance Automator
 
