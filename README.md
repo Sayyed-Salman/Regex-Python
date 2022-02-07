@@ -24,7 +24,7 @@ or go to https://www.python.org and download suitable version of python
 - clone this repository into your pc
 
 ```bash
-git clone https://github.com/Sayyed-Salman/Zoom-Attendance-Automator.git
+git clone https://github.com/Sayyed-Salman/Regex-Python
 ```
 
 - run attendance_automator.py from cmd
