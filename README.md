@@ -1,9 +1,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Sayyed-Salman/Zoom-Attendance-Automator?style=plastic) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Sayyed-Salman/Zoom-Attendance-Automator?style=plastic)
 
-# Zoom Attendance Automator
+# Python Regex
 
-- Zoom Attendance Automaor aka "ZAA" automates the task of saving and calculating, how many participants attended your zoom meeting
+- Regex automates the task of saving and calculating, how many participants attended your zoom meeting
 - I build this project for my college, as my college uses zoom for academic purposes and taking lectures and practicals
 - I acknowledged that the task of taking and storing attendance is repetitive and boring
 - To solve this task i created this project to save and store daily attendance for record keeping and storing data.
